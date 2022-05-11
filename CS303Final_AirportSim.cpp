@@ -1,3 +1,7 @@
+//Quinn Caton
+//CS303 UMKC
+//SID: 16306490
+
 #include <iostream>
 #include "Runway.h"
 #include "FlightRequest.h"
@@ -19,6 +23,7 @@ int main()
     double takeoffWait = 0;
     double landWait = 0;
 
+    //declaration of two runways
     Runway r1(1);
     Runway r2(2);
 
